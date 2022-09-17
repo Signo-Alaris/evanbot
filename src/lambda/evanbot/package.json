@@ -1,0 +1,9 @@
+{
+  "name": "evan-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
